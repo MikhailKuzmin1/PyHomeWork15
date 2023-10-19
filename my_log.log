@@ -1,0 +1,4 @@
+2023-10-19 20:26:34,154 - INFO       - Dir(name='main', exp='py', flag='False', parent='HomeWork_15')
+2023-10-19 20:26:34,154 - INFO       - Dir(name='my_log', exp='log', flag='False', parent='HomeWork_15')
+2023-10-19 20:26:34,154 - INFO       - Dir(name='test', exp='У дириктории нет  расширения!', flag='False', parent='HomeWork_15')
+2023-10-19 20:26:34,154 - INFO       - Dir(name='test2', exp='txt', flag='False', parent='HomeWork_15')
